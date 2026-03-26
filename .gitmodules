@@ -1,7 +1,7 @@
 [submodule "libs/terraphast"]
 	path = libs/terraphast
-	url = https://github.com/amkozlov/terraphast-one
+	url = https://github.com/harmslab/terraphast-one
 [submodule "libs/coraxlib"]
 	path = libs/coraxlib
-	url = https://codeberg.org/Exelixis-Lab/coraxlib.git
+	url = https://github.com/harmslab/coraxlib
 	branch = dev
